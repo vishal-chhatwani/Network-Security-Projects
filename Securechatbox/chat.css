@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+.uName{ 
+color:#00F;
+font-weight:bold;
+font-size:15px;
+font-family:Verdana, Geneva, sanas-serif;
+}
+
+.msg{
+ color:#390;
+ font-size:15px;
+ font-family:Georgia, "Times New Roman", Times,serif;
+}
+.button{
+ text-align:center;
+ background-color:#00F;
+ border-width:2px;
+ border-style:solid;
+ border-color:#000;
+ color:#FFF;
+ padding-left:10px;
+ padding-right:10px;
+ text-decoration:none;
+}?
+
+.inputfield{
+
+	width: 200px;
+	height: 40px;
+}
+
+.loginform{
+
+	width: 250px;
+	height: 250px;
+	background-color: #FFAA75
+}
+
+.chatlog{
+
+height: 400px;
+width: 400px;
+border: 2px;
+outline-color: #000000
+
+}
+
+#chatlog{
+
+	height: 400px;
+width: 400px;
+border: 2px;
+outline-color: #000000
+
+}
