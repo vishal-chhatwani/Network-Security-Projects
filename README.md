@@ -1,6 +1,6 @@
 
 
-Phishing Porject : Fake Facebook page which allows an attacker to use it for performing phishing attack on any user.
+Phishing Project : Fake Facebook page which allows an attacker to use it for performing phishing attack on any user.
 
 Cookie Stealing project : Cookie stealing functionality used in various vulnerabilites over the web including cross site scripting.
 
